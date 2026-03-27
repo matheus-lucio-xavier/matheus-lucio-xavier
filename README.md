@@ -9,9 +9,8 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheus-lucio-xavier&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="52%" /> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-lucio-xavier&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-lucio-xavier&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="42%" /> </br>
+  <img src="https://github-readme-stats-one-chi-86.vercel.app/api/top-langs/?username=matheus-lucio-xavier&theme=aura&layout=compact" />
 
   ![snake gif](https://github.com/ViniCosta1/ViniCosta1/blob/output/github-snake-dark.svg)
 </div>
